@@ -1,0 +1,8 @@
+Enter number of elements: 4
+Enter 4 elements:
+3
+9
+1
+2
+
+1 2 3 9 
